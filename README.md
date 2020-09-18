@@ -1,3 +1,3 @@
-# M-NewTemplate2020
+# 👾 New Template 2020
 
-Basic HTML & CSS template for M Job Postings
+Basic HTML & CSS template for 👾 Job Postings
